@@ -27,4 +27,4 @@ Formerly AWS Cloud Club FAST PWR.
 
 For collaboration, workshops, and community partnerships:
 
-awscloudclub.nucespwr@gmail.com
+awsccfast@pwr.nu.edu.pk
